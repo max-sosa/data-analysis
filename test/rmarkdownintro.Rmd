@@ -2,12 +2,12 @@
 title: "R Markdown Intro"
 author: "Max"
 date: "15 de marzo de 2023"
-output: "word_document"
+output: "github_document"
 ---
 
 ### Introducción a R Markdown
 
-```{r loading libraries, }
+```{r loading libraries, include=FALSE}
 library(tidyverse)
 library(palmerpenguins)
 ```
