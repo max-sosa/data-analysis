@@ -1,9 +1,11 @@
 R Markdown Intro
 ================
-Max  
+Max
 15 de marzo de 2023
 
 ### Introducción a R Markdown
+
+![](https://isdfundacion.org/wp-content/uploads/2021/09/Data-Science-2.jpg)
 
 ``` r
 head(penguins)
